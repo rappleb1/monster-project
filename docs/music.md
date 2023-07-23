@@ -1,0 +1,4 @@
+- Day and Night music for every town, city, route. Maybe wild battles too. Trainers tbd but likely not
+- No bike theme, traversing with bike layers percussion over regular area theme.
+- Music is done similar to GBA and DS Pokémon games. Closer to DS most likely.
+- Setting that applies filter over music for a retro effect.
