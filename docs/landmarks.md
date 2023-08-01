@@ -18,5 +18,7 @@ Great Crater
 - Surrounded in a mysterious haze.
 - Player navigates this area in late game.
 - Weather effect causes monsters to lose HP at the start of each turn. This effect can be negated if the player finds the AntiRad Device in Old Azure Harbor.
-- Monsters here are stronger than usual and unaffected by the weather. They are difficult or impossible to catch.
+- Monsters here are stronger than usual and unaffected by the weather. They are impossible to catch.
 - Reaching the bottom is where the villain and legendary are.
+- Special Held Item for Enemies in this location - gives a stat boost to every stat when fighting in radiation fog. This item has no effect on monsters from other locations.
+- Encounter text changes from "A wild X appears!" to something more sinister. "An X watches you."
